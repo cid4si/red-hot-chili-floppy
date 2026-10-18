@@ -1,12 +1,8 @@
-# Red Hot Fav Floppy — 8-bit Edition
+# Red Hot Fav Floppy — 8-bit
 
 > Favicon assets gerados a partir de um desenho original: um [disquete vermelho no estilo 8 bits](./img/favicon.png), criado para meu site pessoal.
 
 ---
-
-## Sobre o Ícone
-
-A ideia surgiu de um desenho digital. O conceito é simples e nostálgico: um disquete vermelho pixel-art, remetendo à estética dos anos 80/90 e à cultura retrô de computação. A partir desta imagem, criei todos os tamanhos e formatos necessários para compatibilidade multiplataforma.
 
 ## Arquivos
 
@@ -58,9 +54,9 @@ A ideia surgiu de um desenho digital. O conceito é simples e nostálgico: um di
 | `browserconfig.xml` | Configuração de tiles para Microsoft Edge / Windows |
 
 
-## Como Usar
+## Tags
 
-Adicione as tags abaixo no `<head>` do seu HTML:
+Tags para o `<head>` do HTML:
 
 ```html
 <!-- Favicon padrão -->
@@ -94,4 +90,4 @@ Adicione as tags abaixo no `<head>` do seu HTML:
 
 ---
 
-> Desenho original criado em: 19 de Novembro de 2022, 22:42:22.
+<!-- Desenho original criado em: 19 de Novembro de 2022 -->
