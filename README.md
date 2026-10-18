@@ -1,4 +1,4 @@
-# Red Hot Fav Floppy — 8-bit
+# Red Hot Chili Floppy — 8-bit
 
 > Favicon assets gerados a partir de um desenho original: um [disquete vermelho no estilo 8 bits](./img/favicon.png), criado para meu site pessoal.
 
